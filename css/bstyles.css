@@ -1,0 +1,18 @@
+
+
+html{
+    font-family: 'Roboto' , sans-serif;
+    font-size: 15px;
+    box-sizing: border-box;
+    padding-top: 90px;
+    
+}
+
+/*Section used for centering process*/
+.section1{
+    width: 100%;
+    background: rgb(254,142,14);
+    background: linear-gradient(90deg, rgba(254,142,14,1) 0%, rgba(207,208,22,1) 33%, rgba(85,0,255,0.6278886554621849) 100%);
+}
+
+
